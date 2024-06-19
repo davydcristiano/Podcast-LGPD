@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast_Entendendo_a_LGPD.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Podcast_Entendendo_a_LGPD.MP3" controls title="Podcast_Entendendo_a_LGPD"></audio>
 </div>
 
 </br>
