@@ -1,0 +1,3 @@
+## 🧠 Prompts
+
+A holographic Futuristic Book LGPD written by Artificial Intelligence, set in a neon-lit, cyberpunk metropolis cityscape at dusk, where sleek skyscrapers pierce the smog-filled sky. The tome's transparent, crystal-like pages, adorned with glowing circuits and algorithms, shimmer with an ethereal light. The aesthetics evoke a sense of avant-garde, technological spirituality, blending ancient wisdom with cutting-edge innovation. Vibrant hues of electric blue, silver, and gold dance across the cover, punctuated by intricate, swirling patterns of code, imbuing the image with a sense of wonder and mysticism.
